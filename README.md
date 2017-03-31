@@ -34,7 +34,6 @@ This system uses:
 * Cryptography & Secure Algorithms
 * Research and Analysis
 
-Research Paper Link:
-./http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6776600
+Research Paper Link: http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6776600
 
 <tt>Not allowed to share internal logic and source code here!<tt>
